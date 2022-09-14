@@ -1,0 +1,26 @@
+@media all and (max-width: 1400px) {
+    .codeshare__title {
+        font-size: 150px;
+    }
+}
+
+@media all and (max-width: 800px) {
+    .codeshare__title {
+        font-size: 100px;
+    }
+}
+
+@media all and (max-width: 560px) {
+    .codeshare__title {
+        font-size: 50px;
+    }
+
+    .circles div:nth-child(2) {
+        display: none;
+    }
+
+    .codeshare__github__link svg {
+        height: 30px;
+        width: 30px;
+    }
+}

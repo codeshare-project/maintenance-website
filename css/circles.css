@@ -1,0 +1,14 @@
+.blur__circle {
+    z-index: -1;
+
+    position: fixed;
+    height: 350px;
+    width: 350px;
+
+    border-radius: 50%;
+    filter: blur(100px);
+}
+
+.blur__circle[blurcolor="blue"] {
+    background-color: var(--blue);
+}

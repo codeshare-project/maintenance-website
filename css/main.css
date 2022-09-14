@@ -1,0 +1,52 @@
+:root {
+    --blue: #0029FF;
+    --dark: #1a1a1a;
+    --white: #ffffff;
+
+    --font-family: 'Poppins', 'Arial', sans-serif;
+}
+
+body {
+    background-color: var(--dark);
+    padding: 0;
+    margin: 0;
+    filter: blur(100);
+}
+
+main {
+    width: 100%;
+    position: absolute;
+}
+
+.codeshare__title {
+    color: var(--white);
+
+    font-family: var(--font-family);
+    font-style: italic;
+    font-size: 200px;
+
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.link__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.link__container a {
+    padding: 0 5px;
+}
+
+.codeshare__github__link {
+    text-decoration: none;
+}
+
+.codeshare__github__link svg {
+    height: 40px;
+    width: 40px;
+
+    color: white;
+}
