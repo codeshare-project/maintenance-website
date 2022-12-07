@@ -1,4 +1,4 @@
-![CodeShare banner](https://static.devioo.com/Images/CodeShare/Banner%20Transparent.png)
+![CodeShare banner](https://i.imgur.com/8KSgw8s.png)
 
 <h3 align="center">🔧 This is the website that appears in case of maintenance, available at <a href="https://codeshare-project.github.io/maintenance-website" > codeshare-project.github.io</a>.
     </h3>
